@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625940806746",
+    "project_id": "fstorage-d6e8c",
+    "storage_bucket": "fstorage-d6e8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625940806746:android:d0633c53c5e0e9aacbec63",
+        "android_client_info": {
+          "package_name": "com.example.f_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzg-8YkLfgd6_82Jbi1HEW-Ez52S4ogSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
